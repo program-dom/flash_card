@@ -42,7 +42,7 @@ def correct_word():
     canvas.itemconfig(title, fill="white", text="English")
     canvas.itemconfig(word, fill="white", text=english_word)
 
-#------------------------------UI-------------------------------#
+#---------------------------------UI---------------------------------#
 
 
 window = Tk()
